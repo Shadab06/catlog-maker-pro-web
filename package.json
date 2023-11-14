@@ -9,7 +9,7 @@
     "node": ">=12.13.0"
   },
   "author": "Shadab",
-  "license": "Ashar Infotech License",
+  "license": "Ashar Infotech pvt.ltd",
   "scripts": {
     "analyze:clean": "rimraf stats.json",
     "preanalyze": "npm run analyze:clean",
